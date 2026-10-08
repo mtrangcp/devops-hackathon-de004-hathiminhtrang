@@ -158,55 +158,7 @@ http://221.121.4.114:8080
 
 \## 7. Minh chứng
 
-
-
-\### 01 - Tài khoản Linux
-
-Kết quả `whoami` và `id`.
-
-
-
-!\[01](screenshots/01.png)
-
-
-
-\### 02 - Nginx
-
-Kiểm tra `nginx -t`, trạng thái active và enabled.
-
-
-
-!\[02](screenshots/02.png)
-
-
-
-\### 03 - UFW
-
-Kết quả `sudo ufw status verbose`.
-
-
-
-!\[03](screenshots/03.png)
-
-
-
-\### 04 - Website
-
-Website truy cập tại `http://221.121.4.114:8080`.
-
-
-
-!\[04](screenshots/04.png)
-
-
-
-\### 05 - Git log
-
-Lịch sử commit của repository.
-
-
-
-!\[05](screenshots/05.png)
+screenshots
 
 
 
